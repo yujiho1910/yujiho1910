@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=yujiho1910&count_private=true&show_icons=true&hide=contribs) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujiho1910&layout=compact) <br>
 <a href="mailto:yujiho54@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://linkedin.com/in/jingrui19">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a target="_blank" href="https://linkedin.com/in/jingrui19">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
