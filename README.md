@@ -10,3 +10,4 @@ yujiho1910/yujiho1910 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yujiho1910.README.md)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=yujiho1910&count_private=true&show_icons=true&hide=contribs)
