@@ -1,9 +1,16 @@
 - 👋  Hi, I’m @yujiho1910
-- `I'm a math and computer science student in Nanyang Technological University (NTU).`
-- `I'm interested in algorithms to solve seemingly impossible tasks.`
-- 🌱  I’m currently in my 2nd year and hope to take part in meaningful attachments/internships to further develop my skills.
+- I'm a math and computer science student in Nanyang Technological University (NTU).
+- Studying math and computer science together has strengthened my interest in Machine Learning and Data Science roles
+- 🌱  I’m going into my 3rd Year and hope to take part in meaningful attachments/internships to further develop my skills.
 - 📫  How to reach me:
-- `telegram/instagram: @yuji1910`
+
+|Social Media|Username|
+|-|-|
+|Telegram|@yuji1910|
+|Instagram|@yuji1910|
+
+[Link to my portfolio website](yujiho1910.github.io/portfolio) (made using React)
+
 
 <!---
 yujiho1910/yujiho1910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
