@@ -9,7 +9,7 @@
 |Telegram|@yuji1910|
 |Instagram|@yuji1910|
 
-[Link to my portfolio website](yujiho1910.github.io/portfolio) (made using React)
+[Link to my portfolio website](http://yujiho1910.github.io/portfolio) (made using React)
 
 
 <!---
